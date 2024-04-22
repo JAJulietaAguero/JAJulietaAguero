@@ -4,8 +4,6 @@
   
 
 
-
-### Quién soy?  
 ### <div align="center">Hola 👋, mi nombre es Julieta Agüero, soy desarrolladora Fullstack y soy de Argentina</div>  
   
 
