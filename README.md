@@ -70,8 +70,12 @@ Mobile
 <br/>  
 
 ## Mis proyectos
-<p>Proyecto Individual Pokemon
+<p>Proyecto Individual Pokemon:
   Este proyecto permite visualizar una grande lista de pokemones, buscar por nombre, crear un nuevo pokemon y filtrar ya sea alfabéticamente, de mayor a menor y viceversa, como así también filtrar por sus tipos</p>
+
+<p>Shoe Kingdom:
+  Shoe Kingdom es una plataforma para el comercio de zapatillas. La página web permite mostrar todo el stock de marcas y variedades disponibles a la venta, con la posibilidad de comprar en línea.
+Los administradores tiene la posibilidad de llevar al día el stock de sus productos, crear productos nuevos, llevar un control de usuarios, entre otras posibilidades.</p>
 
 
 <br/>
