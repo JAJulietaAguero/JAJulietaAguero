@@ -69,6 +69,13 @@ Mobile
 
 <br/>  
 
+## Mis proyectos
+<p>Proyecto Individual Pokemon
+  Este proyecto permite visualizar una grande lista de pokemones, buscar por nombre, crear un nuevo pokemon y filtrar ya sea alfabéticamente, de mayor a menor y viceversa, como así también filtrar por sus tipos</p>
+
+
+<br/>
+
 
 ## Información de contacto   
 
